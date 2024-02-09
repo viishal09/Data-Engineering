@@ -1,0 +1,9 @@
+{ "fruits_list" :
+    [
+        {
+            "fruit": "Apple",
+            "size": "Large",
+            "color": "Red"
+        }
+    ]
+}
